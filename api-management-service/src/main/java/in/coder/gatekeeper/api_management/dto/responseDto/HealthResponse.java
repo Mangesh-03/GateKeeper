@@ -7,7 +7,7 @@ import lombok.Setter;
 @AllArgsConstructor
 @Getter
 @Setter
-public class HealthCheckDto
+public class HealthRespose
 {
     private String serviceName;
     private String serviceDescription;
